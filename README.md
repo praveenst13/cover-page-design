@@ -26,8 +26,7 @@ Write your own steps here.
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(/static/images/6.jpg);
-            background-size: cover;
+          
         }
             
 
