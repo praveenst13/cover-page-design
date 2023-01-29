@@ -129,4 +129,5 @@ Write your own steps here.
 ![eig](out.png)
 
 ## Result:
-Write your result
+
+The program for designing cover-page-design using HTML and CSS is executed successfully.
